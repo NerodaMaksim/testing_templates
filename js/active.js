@@ -27,7 +27,7 @@
     }
 
     // :: Tooltip Active Code
-    $('[data-toggle="tooltip"]').tooltip();
+    jQuery('[data-toggle="tooltip"]').tooltip();
 
     // :: Owl Carousel Active Code
     if ($.fn.owlCarousel) {
